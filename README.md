@@ -1,5 +1,5 @@
 
-<img src="feedbackApp.png"  align="center" />
+<img src="feedBack-App.png"  align="center" />
 
 
 # Getting Started with Create React App
