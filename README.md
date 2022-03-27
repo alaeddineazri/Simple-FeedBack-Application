@@ -1,4 +1,4 @@
-<img src="feedbackApp.png" height="290px" align="right" />
+<img src="feedbackApp.png"  align="center" />
 
 
 
